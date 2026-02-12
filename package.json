@@ -1,0 +1,7 @@
+{
+  "name": "ovvoc-test-scale-14",
+  "version": "1.0.0",
+  "description": "Tailwind CSS 2 app with 8 component files",
+  "scripts": { "test": "node test/config.test.js" },
+  "devDependencies": { "tailwindcss": "2.2.19" }
+}
